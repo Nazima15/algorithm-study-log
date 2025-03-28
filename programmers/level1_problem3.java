@@ -8,5 +8,6 @@ public class level1_problem3 {
         int result = solution.solution(25);
         
         System.out.println("Result: " + result);
+        
     }
 }

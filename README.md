@@ -1,1 +1,1 @@
-# algorithm-study-log
+# 알고리즘 학습 보고서

@@ -1,8 +1,5 @@
 # 🚀 알고리즘 학습 보고서
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Nazima5/algorithm-study-log)
-![GitHub repo size](https://img.shields.io/github/repo-size/Nazima5/algorithm-study-log)
-
 알고리즘 문제 풀이 및 학습 내용을 정리하는 저장소입니다. 다양한 알고리즘 문제를 해결하며, 코드와 함께 학습한 내용을 공유합니다.
 
 ---

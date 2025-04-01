@@ -22,7 +22,7 @@ algorithm-study-log/
 ## 🔥 최신 업데이트 (최근 문제 풀이)
 | 날짜 | 문제 | 난이도 | 언어 | 링크 |
 |------|------|--------|------|------|
-| 2025-03-28 | 큰 수 구하기 | Level 1 | Python | [🔗 코드 보기](./programmers/level1/problem5.py) |
+| 2025-03-28 | 큰 수 구하기 | Level 1 | Java | [🔗 코드 보기](./programmers/level1/problem5.py) |
 
 ---
 

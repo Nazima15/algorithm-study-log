@@ -9,8 +9,8 @@
 algorithm-study-log/
 │── programmers/           # 프로그래머스 문제 풀이
 │   ├── level1/            # 레벨 1 문제 풀이
-│   │   ├── problem1.py    # 문제 1 풀이 코드
-│   │   ├── problem2.py    # 문제 2 풀이 코드
+│   │   ├── problem1.java    # 문제 1 풀이 코드
+│   │   ├── problem2.java    # 문제 2 풀이 코드
 │   │   └── ...
 │   ├── level2/            # 레벨 2 문제 풀이
 │   └── ...
@@ -22,8 +22,7 @@ algorithm-study-log/
 ## 🔥 최신 업데이트 (최근 문제 풀이)
 | 날짜 | 문제 | 난이도 | 언어 | 링크 |
 |------|------|--------|------|------|
-| 2025-03-28 | 큰 수 구하기 | Level 1 | Java | [🔗 코드 보기](./programmers/level1/problem5.py) |
-
+| 2025-03-28 | 큰 수 구하기 | Level 1 | Java |
 ---
 
 ## 🛠 사용 기술

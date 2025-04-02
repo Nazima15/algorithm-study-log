@@ -37,6 +37,6 @@ algorithm-study-log/
 ---
 
 ## 📬 연락처
-🙋‍♀️ GitHub: [Nazima5](https://github.com/Nazima5)  
+🙋‍♀️ GitHub: [Nazima15](https://github.com/Nazima15)  
 📧 Email: ergeshovanazima2@gmail.com
 💖 **알고리즘 학습을 함께 해요!** 🚀
